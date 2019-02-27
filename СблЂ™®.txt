@@ -1,0 +1,12 @@
+
+Иконки: https://www.flaticon.com
+
+normalize.css : https://necolas.github.io/normalize.css
+
+Шрифты: https://fonts.google.com/?query=Mont&selection.family=Montserrat:400,500,700|Playfair+Display:400,400i,700,900i&selection.subset=cyrillic
+
+Шрифтовые иконки:
+https://fontawesome.com
+
+Программа для компиляции LESS: 
+http://koala-app.com

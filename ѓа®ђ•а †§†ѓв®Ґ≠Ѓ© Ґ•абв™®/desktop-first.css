@@ -1,0 +1,32 @@
+body {
+	padding-top: 50px;
+}
+
+/* Desktop First - от Большего к Меньшему */ 
+
+.block {
+	width: 800px;
+	height: 100px;
+	background: #13C01F;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Для экранов с шириной от  0 до 800px*/
+@media (max-width: 800px) {
+	
+	.block {
+		width: 400px;
+		background: #D51A11;
+	} 
+
+}
+
+@media (max-width: 600px) {
+	
+	.block {
+		width: 200px;
+		background: #236BBC;
+	} 
+
+}
